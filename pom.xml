@@ -95,13 +95,13 @@
 		
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Georgeebeh Releases Nexus Repository</name>
 	      <url>http://172.31.75.140:8081/repository/georgeebeh/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Georgeebeh Snapshot Nexus Repository </name>
 	      <url>http://172.31.75.140:8081/repository/georgeebeh-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
